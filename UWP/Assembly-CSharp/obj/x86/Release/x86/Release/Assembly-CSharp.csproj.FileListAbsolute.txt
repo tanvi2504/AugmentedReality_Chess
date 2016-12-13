@@ -1,0 +1,60 @@
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\MagicUser\Desktop\mit_chess\initial\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\vr-chess\Documents\New folder\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\MagicUser\Downloads\ARBoardgame_Nov14\ARBoardgame\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
